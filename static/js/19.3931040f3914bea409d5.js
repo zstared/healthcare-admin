@@ -1,0 +1,2 @@
+webpackJsonp([19],{QuQt:function(e,t){},TRSi:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("我是demo12页面")])])}]};var r=n("VU/8")({},i,!1,function(e){n("QuQt")},"data-v-48001584",null).exports;t.default=r}});
+//# sourceMappingURL=19.3931040f3914bea409d5.js.map
