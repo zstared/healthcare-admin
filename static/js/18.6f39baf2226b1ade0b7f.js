@@ -1,2 +1,0 @@
-webpackJsonp([18],{G8Gs:function(e,t){},U54E:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("G8Gs")},"data-v-540eb1ee",null).exports;t.default=s}});
-//# sourceMappingURL=18.6f39baf2226b1ade0b7f.js.map
